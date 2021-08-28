@@ -4,7 +4,7 @@ import App from './App.jsx';
 import {BrowserRouter} from "react-router-dom";
 
 
-ReactDOM.render(<BrowserRouter>
+ReactDOM.render(<BrowserRouter className="bg-image">
 <App/>
 </BrowserRouter>,
   document.getElementById('root')

@@ -8,6 +8,14 @@
   
 }
 div .bg-image{
-  background-image: url("./images/background.jpg");
+  background-image: url("./images/background.jpg")!important;
+  background-position: center!important;
+  background-size: cover!important;
+  background-repeat: no-repeat!important;
+  margin-bottom: 0;
+}
+a.titlemain{
+   text-decoration-color: white!important;
+   font-size: 2.5rem!important;
 }
 
