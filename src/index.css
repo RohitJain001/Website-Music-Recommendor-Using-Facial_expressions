@@ -8,11 +8,14 @@
   
 }
 div .bg-image{
-  background-image: url("./images/background.jpg")!important;
+  /* background-image: url("./images/background.jpg")!important;
   background-position: center!important;
-  background-size: cover!important;
-  background-repeat: no-repeat!important;
-  margin-bottom: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-size: cover;
+  margin-bottom: 0!important;
+  overflow: hidden;
+  position: fixed; */
 }
 a.titlemain{
    text-decoration-color: white!important;
